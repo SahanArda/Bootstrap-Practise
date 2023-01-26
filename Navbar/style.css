@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+}
+
+.navbar {
+    padding: 15px 0;
+}
+
+ul li{
+    margin: 0 10px;
+}
+
+.nav-btn {
+    border: none;
+    border-radius: 15px;
+    padding: 5px 12px;
+}
